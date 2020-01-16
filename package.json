@@ -1,0 +1,10 @@
+{
+  "name": "013_p5_chemical_diffusion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wanbinkimoon <nicola.bertelloni@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server"
+  }
+}
